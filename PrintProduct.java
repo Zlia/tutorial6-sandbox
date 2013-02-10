@@ -3,6 +3,7 @@
    numbers and prints their product.
 */
 // dummy change by Hans-Peter Hoellwirth
+// Atanas Dobrev was here.
 
 public class PrintProduct extends ConsoleApplet {
 
